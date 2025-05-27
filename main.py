@@ -29,10 +29,10 @@ value@function, is an invalid function name because the symbol, @ is not allowed
 """
 # Problem 3
 """
-True and False,
-5 > 3 or "apple" < "banana"
-not 10 <= 20
-True or 5 = 4
+True and False,is a valid expression and it evaluates to false because both sides must be true to result in true 
+5 > 3 or "apple" < "banana", is a valid expression and it evaluates that 5 is greater than 3 which is true and apple comes before bananna becuase a comes before b 
+not 10 <= 20, is a valid expression because 10 is less than 20 and the not before 10 is making it not true 
+True or 5 = 4, is an invalid expression because the use of = can not be used to compare values 
 "apple" ! = "orange" and 5 
 3 < 5 not True
 False == (3 > 4)
