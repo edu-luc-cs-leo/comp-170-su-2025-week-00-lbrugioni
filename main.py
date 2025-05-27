@@ -3,7 +3,7 @@
 # Lab 0
 # Problem 1
 """
-hello first_name, is a valid name in python, because it is snake case, which is when we use '_' instead of spaces between words.
+first_name, is a valid name in python, because it is snake case, which is when we use '_' instead of spaces between words.
 2nd_name, is an invalid name because it starts with a number
 age, is a valid name becuase it starts with a letter and is descriptive
 total_amount, is a valid name because it starts with a letter and uses an underscore
