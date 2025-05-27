@@ -3,16 +3,13 @@
 # Lab 0
 # Problem 1
 """
-1. first_name, is a valid name in python, because it is snake case, which is when we use '_' instead of spaces between words.
-2. 
-3.
-Your solution goes here
+first_name, is a valid name in python, because it is snake case, which is when we use '_' instead of spaces between words.
 
 
 """
 # Problem 2
 """
-Your solution goes here
+2nd_name, is invalid because it starts with a number which is not allowed 
 
 
 """
