@@ -16,7 +16,7 @@ value#, is an invalid name because their can't because the # special character
 """
 # Problem 2
 """
-calculate_total,is a valid name becuase it starts with a letter and uses an underscore 
+hello calculate_total,is a valid name becuase it starts with a letter and uses an underscore 
 3rd_function, is invalid function name because it starts with a number which is not allowed 
 print_values, is a valid function name because it starts with a letter and has no spaces 
 find-item, is an invalid fucntion name because it uses a hypen which is not allowed 
