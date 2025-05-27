@@ -3,7 +3,7 @@
 # Lab 0
 # Problem 1
 """
-first_name, is a valid name in python, because it is snake case, which is when we use '_' instead of spaces between words.
+hello first_name, is a valid name in python, because it is snake case, which is when we use '_' instead of spaces between words.
 2nd_name, is an invalid name because it starts with a number
 age, is a valid name becuase it starts with a letter and is descriptive
 total_amount, is a valid name because it starts with a letter and uses an underscore
@@ -33,7 +33,7 @@ True and False,is a valid expression and it evaluates to false because both side
 5 > 3 or "apple" < "banana", is a valid expression and it evaluates that 5 is greater than 3 which is true and apple comes before bananna becuase a comes before b 
 not 10 <= 20, is a valid expression because 10 is less than 20 and the not before 10 is making it not true 
 True or 5 = 4, is an invalid expression because the use of = can not be used to compare values 
-"apple" ! = "orange" and 5 
+"apple" ! = "orange" and 5
 3 < 5 not True
 False == (3 > 4)
 10 <= "10"
