@@ -29,7 +29,7 @@ value@function, is an invalid function name because the symbol, @ is not allowed
 """
 # Problem 3
 """
-True and False
+True and False,
 5 > 3 or "apple" < "banana"
 not 10 <= 20
 True or 5 = 4
