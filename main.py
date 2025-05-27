@@ -16,13 +16,13 @@ value#, is an invalid name because their can't because the # special character
 """
 # Problem 2
 """
-hello calculate_total,is a valid name becuase it starts with a letter and uses an underscore 
+calculate_total,is a valid name becuase it starts with a letter and uses an underscore 
 3rd_function, is invalid function name because it starts with a number which is not allowed 
 print_values, is a valid function name because it starts with a letter and has no spaces 
 find-item, is an invalid fucntion name because it uses a hypen which is not allowed 
 def, is an invalid function name because it is a reserved word 
-updateProfile, it is valid name but not recommeneded because snake_case is recommended by using underscores as spaces 
-my_function, it is a valid name because it starts with a letter and uses an underscore to seperate the words 
+updateProfile, is valid name but not recommeneded because snake_case is recommended by using underscores as spaces 
+my_function, is a valid name because it starts with a letter and uses an underscore to seperate the words 
 try, is an invalid fucntion name because it is a reserved word 
 init_data, is a valid function name because it starts with a letter 
 value@function, is an invalid function name because the symbol, @ is not allowed  
@@ -33,12 +33,12 @@ True and False,is a valid expression and it evaluates to false because both side
 5 > 3 or "apple" < "banana", is a valid expression and it evaluates that 5 is greater than 3 which is true and apple comes before bananna becuase a comes before b 
 not 10 <= 20, is a valid expression because 10 is less than 20 and the not before 10 is making it not true 
 True or 5 = 4, is an invalid expression because the use of = can not be used to compare values 
-"apple" ! = "orange" and 5
-3 < 5 not True
-False == (3 > 4)
-10 <= "10"
-True or not False
-5 and or 4
+"apple" ! = "orange" and 5, is an invalid expression because there can not be a space between the ! and the = 
+3 < 5 not True, is an invalid expression because 5 is greater than 3 but it is saying that it is false 
+False == (3 > 4), is a valid expression because 3 is not greater than 4 
+10 <= "10", is an invalid expression because it is comparing a value with a string 
+True or not False, is a valid expression because is using the truth tables and the outcome would be false 
+5 and or 4, is an invalid expression because the words and, or can not be used together with integers 
 """
 #-----------------------------------------------------------------------------
 # Homework 0
