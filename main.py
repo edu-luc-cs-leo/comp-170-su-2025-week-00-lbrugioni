@@ -18,20 +18,27 @@ value#, is an invalid name because their can't because the # special character
 """
 calculate_total,is a valid name becuase it starts with a letter and uses an underscore 
 3rd_function, is invalid function name because it starts with a number which is not allowed 
-print_values, is a valid function name 
-find-item
-def
-updateProfile
-my_function
-try
-init_data
-value@function 
+print_values, is a valid function name because it starts with a letter and has no spaces 
+find-item, is an invalid fucntion name because it uses a hypen which is not allowed 
+def, is an invalid function name because it is a reserved word 
+updateProfile, it is valid name but not recommeneded because snake_case is recommended by using underscores as spaces 
+my_function, it is a valid name because it starts with a letter and uses an underscore to seperate the words 
+try, is an invalid fucntion name because it is a reserved word 
+init_data, is a valid function name because it starts with a letter 
+value@function, is an invalid function name because the symbol, @ is not allowed  
 """
 # Problem 3
 """
-Your solution goes here
-
-
+True and False
+5 > 3 or "apple" < "banana"
+not 10 <= 20
+True or 5 = 4
+"apple" ! = "orange" and 5 
+3 < 5 not True
+False == (3 > 4)
+10 <= "10"
+True or not False
+5 and or 4
 """
 #-----------------------------------------------------------------------------
 # Homework 0
