@@ -4,14 +4,28 @@
 # Problem 1
 """
 first_name, is a valid name in python, because it is snake case, which is when we use '_' instead of spaces between words.
-
-
+2nd_name, is an invalid name because it starts with a number
+age, is a valid name becuase it starts with a letter and is descriptive
+total_amount, is a valid name because it starts with a letter and uses an underscore
+while, is an invalid name because it is a reserved word in python
+Student, is a valid name because it starts with an uppercase letter and is descriptive
+my-varibale, is an invalid name because dashes are not allowed, only underscores
+for, is invalid because it is a reserved word
+_temp, is a valid name because an underscore can be used to start the name
+value#, is an invalid name because their can't because the # special character 
 """
 # Problem 2
 """
-2nd_name, is invalid because it starts with a number which is not allowed 
-
-
+calculate_total,is a valid name becuase it starts with a letter and uses an underscore 
+3rd_function, is invalid function name because it starts with a number which is not allowed 
+print_values, is a valid function name 
+find-item
+def
+updateProfile
+my_function
+try
+init_data
+value@function 
 """
 # Problem 3
 """
